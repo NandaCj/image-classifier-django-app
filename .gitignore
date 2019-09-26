@@ -1,0 +1,4 @@
+venv/
+dataset_cats_dogs/
+image_classifier/Model/*.h5
+.ipynb*/
