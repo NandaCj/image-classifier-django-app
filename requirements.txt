@@ -52,7 +52,7 @@ nltk==3.4.5
 notebook==6.0.0
 nsepy==0.7
 nsetools==1.0.10
-numpy==1.16.4
+numpy==1.22.0
 opencv-python==4.1.1.26
 pandas==0.25.0
 pandocfilters==1.4.2
